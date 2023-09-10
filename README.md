@@ -8,4 +8,4 @@ To start the development server run:
 bun dev
 ```
 
-Open http://localhost:3000/ with your browser to see the result.
+Open http://localhost:3000/api/v1 with your browser to see the result.
